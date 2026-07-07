@@ -1,0 +1,72 @@
+.team-member-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.member-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.member-name {
+  margin: 0;
+  font-size: 22px;
+  color: #111827;
+}
+
+.admin-badge {
+  background-color: #ef4444;
+  color: #ffffff;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.member-role {
+  color: #4b5563;
+  margin: 0;
+  font-size: 15px;
+}
+
+.member-meta {
+  color: #6b7280;
+  font-size: 14px;
+  margin: 0;
+}
+
+.skills-section {
+  margin-top: 10px;
+}
+
+.skills-heading {
+  margin: 0 0 8px 0;
+  font-weight: 600;
+  color: #374151;
+  font-size: 14px;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.follow-button {
+  margin-top: 15px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.follow-button:hover {
+  background-color: #1d4ed8;
+}

@@ -1,0 +1,19 @@
+.main-section {
+  margin: 40px auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
+.section-heading {
+  font-size: 26px;
+  color: #111827;
+  margin-bottom: 24px;
+  border-left: 4px solid #2563eb;
+  padding-left: 12px;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 24px;
+}
