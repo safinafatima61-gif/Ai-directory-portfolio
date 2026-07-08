@@ -14,21 +14,20 @@ and JSX rules.
 ## Browser link 
 http://localhost:5174/
 ## 🚀 Live Demo
-
+Github https://safinafatima61-gif.github.io/team-directory/
 🌐 **Live Site**
 Giithub
-[Your site is live at https://safinafatima61-gif.github.io/Ai-directory-portfolio/]
+https://safinafatima61-gif.github.io/Ai-directory-portfolio/
 Vercle
-[]
-📂 **GitHub Repository**
 
-[]
+📂 **GitHub Repository**
+https://github.com/safinafatima61-gif/Ai-directory-portfolio.git
 
 🎥 **Loom Walkthrough**
 
 [Add Loom Video Link Here]
 
----
+
 
 ## ✨ Features
 
