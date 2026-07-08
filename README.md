@@ -16,12 +16,13 @@ http://localhost:5174/
 ## 🚀 Live Demo
 
 🌐 **Live Site**
-
-[Add Vercel Link Here]
-
+Giithub
+[Your site is live at https://safinafatima61-gif.github.io/Ai-directory-portfolio/]
+Vercle
+[]
 📂 **GitHub Repository**
 
-[Add GitHub Repo Link Here]
+[]
 
 🎥 **Loom Walkthrough**
 
