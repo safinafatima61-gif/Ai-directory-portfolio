@@ -29,10 +29,6 @@ https://ai-directory-portfolio-lsbc-theta.vercel.app/
 https://github.com/safinafatima61-gif/Ai-directory-portfolio.git
 
 
-🎥 **Loom Walkthrough**
-https://www.loom.com/share/cbfca839fa7c4dd79607e00b5971c809
-
-
 
 
 ## ✨ Features
